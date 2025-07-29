@@ -4,8 +4,9 @@
 
 A modern and responsive product gallery web application built with React, TypeScript, and Vite. It features product browsing, searching, sorting, detailed views, and interactive ratings.
 
-Live Demo: [Visit the App](https://hanaa980.github.io/Products-gallery/)
+## 🔗 Live Demo
 
+🌐 [Visit the App](https://hanaa980.github.io/Products-gallery/)
 ---
 
 ## Features
