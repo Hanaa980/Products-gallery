@@ -7,6 +7,8 @@ A modern and responsive product gallery web application built with React, TypeSc
 ## 🔗 Live Demo
 
 🌐 [Visit the App](https://hanaa980.github.io/Products-gallery/)
+
+
 ---
 
 ## Features
