@@ -11,7 +11,7 @@ Products Gallery is a modern web application built with **React** and **TypeScri
 
 ## 🔗 Live Demo
 
-[View the live demo here]("https://Hanaa980.github.io/Products-gallery")
+[View the live demo here](https://Hanaa980.github.io/Products-gallery)
 
 ---
 
