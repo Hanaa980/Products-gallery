@@ -1,4 +1,3 @@
-Got it! Here’s an updated **English README.md** template with a **Live Demo link** instead of screenshots:
 
 ````markdown
 # 🛍️ Products Gallery - React + TypeScript
@@ -18,7 +17,7 @@ Products Gallery is a modern web application built with **React** and **TypeScri
 ## 🧱 Tech Stack Used
 
 | Technology     | Description                    |
-|----------------|-------------------------------|
+|---------------|-------------------------------|
 | React          | Front-end library             |
 | TypeScript     | Static typing for JavaScript  |
 | Vite           | Fast build tool and dev server|
@@ -32,28 +31,27 @@ Products Gallery is a modern web application built with **React** and **TypeScri
 ## 🚀 Getting Started
 
 1. Clone the repo  
-```bash
-git clone https://github.com/your-username/products-gallery.git
-cd products-gallery
+   ```bash
+   git clone https://github.com/Hanaa980/Products-gallery.git
+   cd Products-gallery
 ````
 
 2. Install dependencies
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Run the development server
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 ---
 
 ## 👤 Author
 
-\[Your Name]
-[GitHub](https://github.com/Hanaa980/) | 
+**Hanaa Ragab**
+[GitHub](https://github.com/Hanaa980)
 
----
