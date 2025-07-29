@@ -1,5 +1,4 @@
 
-````markdown
 # Products Gallery
 
 A modern and responsive product gallery web application built with React, TypeScript, and Vite. It features product browsing, searching, sorting, detailed views, and interactive ratings.
@@ -7,7 +6,6 @@ A modern and responsive product gallery web application built with React, TypeSc
 ## 🔗 Live Demo
 
 🌐 [Visit the App](https://hanaa980.github.io/Products-gallery/)
-
 
 ---
 
@@ -98,22 +96,6 @@ Products-gallery/
 
 ---
 
-## Search & Sort Flow
-
-1. User types a keyword in the SearchBar component.
-2. Products list filters dynamically based on the search term.
-3. User can sort the filtered products using SortDropdown by price or rating.
-
----
-
-## Product Interaction Flow
-
-1. Products displayed as cards on the Home page.
-2. Clicking a product navigates to the Product Details page.
-3. Users see extended info including ratings and description.
-
----
-
 ## Deployment
 
 This app is deployed via `gh-pages`.
@@ -124,6 +106,8 @@ To deploy manually:
 npm run build
 npm run deploy
 ```
+
+---
 
 ## 👤 Author
 
